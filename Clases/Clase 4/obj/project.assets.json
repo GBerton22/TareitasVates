@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\admin\\Desktop\\Vates G\\Clases\\Clase 4\\Clase 4.csproj",
+      "projectUniqueName": "c:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Clases\\Clase 4\\Clase 4.csproj",
       "projectName": "Clase 4",
-      "projectPath": "c:\\Users\\admin\\Desktop\\Vates G\\Clases\\Clase 4\\Clase 4.csproj",
+      "projectPath": "c:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Clases\\Clase 4\\Clase 4.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\admin\\Desktop\\Vates G\\Clases\\Clase 4\\obj\\",
+      "outputPath": "c:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Clases\\Clase 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
