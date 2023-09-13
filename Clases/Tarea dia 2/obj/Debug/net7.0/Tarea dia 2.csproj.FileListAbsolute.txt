@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\bin\Debug\net7.0\Tarea dia 2.exe
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\bin\Debug\net7.0\Tarea dia 2.deps.json
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\bin\Debug\net7.0\Tarea dia 2.runtimeconfig.json
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\bin\Debug\net7.0\Tarea dia 2.dll
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\bin\Debug\net7.0\Tarea dia 2.pdb
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\obj\Debug\net7.0\Tarea dia 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\obj\Debug\net7.0\Tarea dia 2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\obj\Debug\net7.0\Tarea dia 2.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\obj\Debug\net7.0\Tarea dia 2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\obj\Debug\net7.0\Tarea dia 2.dll
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\obj\Debug\net7.0\refint\Tarea dia 2.dll
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\obj\Debug\net7.0\Tarea dia 2.pdb
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\obj\Debug\net7.0\Tarea dia 2.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vates G\Tarea dia 2\obj\Debug\net7.0\ref\Tarea dia 2.dll

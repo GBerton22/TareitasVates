@@ -1,0 +1,14 @@
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\bin\Debug\net7.0\POO.exe
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\bin\Debug\net7.0\POO.deps.json
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\bin\Debug\net7.0\POO.runtimeconfig.json
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\bin\Debug\net7.0\POO.dll
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\bin\Debug\net7.0\POO.pdb
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\obj\Debug\net7.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\obj\Debug\net7.0\POO.AssemblyInfoInputs.cache
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\obj\Debug\net7.0\POO.AssemblyInfo.cs
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\obj\Debug\net7.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\obj\Debug\net7.0\POO.dll
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\obj\Debug\net7.0\refint\POO.dll
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\obj\Debug\net7.0\POO.pdb
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\obj\Debug\net7.0\POO.genruntimeconfig.cache
+C:\Users\mrc\dev\Projectos-Tarea-Vates\Clase3\POO\obj\Debug\net7.0\ref\POO.dll
