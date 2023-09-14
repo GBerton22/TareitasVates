@@ -22,9 +22,25 @@
                 GolesLocal = 1,
                 GolesVisitante = 1
             };
+            Partido partido3 = new Partido
+            {
+                EquipoLocal = equipo1,
+                EquipoVisitante = equipo2,
+                GolesLocal = 4,
+                GolesVisitante = 2
+            };
+            Partido partido4 = new Partido
+            {
+                EquipoLocal = equipo2,
+                EquipoVisitante = equipo1,
+                GolesLocal = 5,
+                GolesVisitante = 2
+            };
 
             equipo2.RegistrarPartido(partido1);
             equipo2.RegistrarPartido(partido2);
+            equipo1.RegistrarPartido(partido3);
+            equipo1.RegistrarPartido(partido4);
 
             Console.WriteLine($"Equipo: {equipo1.Nombre}");
             Console.WriteLine($"Partidos jugados: {equipo1.PartidosJugados}");

@@ -13,3 +13,17 @@ D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\refin
 D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.pdb
 D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.genruntimeconfig.cache
 D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\ref\Partido eje.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\obj\Debug\net7.0\refint\Partido eje.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.pdb
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.exe
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.deps.json
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.runtimeconfig.json
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.pdb
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Partido eje\obj\Debug\net7.0\ref\Partido eje.dll

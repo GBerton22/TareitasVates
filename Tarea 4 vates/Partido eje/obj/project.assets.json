@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EJERCICIOS TECNICATURA\\VATES\\Tarea 4 vates\\Partido eje\\Partido eje.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Tarea 4 vates\\Partido eje\\Partido eje.csproj",
       "projectName": "Partido eje",
-      "projectPath": "D:\\EJERCICIOS TECNICATURA\\VATES\\Tarea 4 vates\\Partido eje\\Partido eje.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\EJERCICIOS TECNICATURA\\VATES\\Tarea 4 vates\\Partido eje\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Tarea 4 vates\\Partido eje\\Partido eje.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Tarea 4 vates\\Partido eje\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
