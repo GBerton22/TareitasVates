@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\bin\Debug\net7.0\Cuenta_Bancaria.exe
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\bin\Debug\net7.0\Cuenta_Bancaria.deps.json
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\bin\Debug\net7.0\Cuenta_Bancaria.runtimeconfig.json
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\bin\Debug\net7.0\Cuenta_Bancaria.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\bin\Debug\net7.0\Cuenta_Bancaria.pdb
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\obj\Debug\net7.0\Cuenta_Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\obj\Debug\net7.0\Cuenta_Bancaria.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\obj\Debug\net7.0\Cuenta_Bancaria.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\obj\Debug\net7.0\Cuenta_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\obj\Debug\net7.0\Cuenta_Bancaria.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\obj\Debug\net7.0\refint\Cuenta_Bancaria.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\obj\Debug\net7.0\Cuenta_Bancaria.pdb
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\obj\Debug\net7.0\Cuenta_Bancaria.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Cuenta_Bancaria\obj\Debug\net7.0\ref\Cuenta_Bancaria.dll

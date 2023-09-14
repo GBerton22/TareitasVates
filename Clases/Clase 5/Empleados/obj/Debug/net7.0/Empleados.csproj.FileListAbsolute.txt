@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\bin\Debug\net7.0\Empleados.exe
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\bin\Debug\net7.0\Empleados.deps.json
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\bin\Debug\net7.0\Empleados.runtimeconfig.json
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\bin\Debug\net7.0\Empleados.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\bin\Debug\net7.0\Empleados.pdb
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\obj\Debug\net7.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\obj\Debug\net7.0\Empleados.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\obj\Debug\net7.0\Empleados.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\obj\Debug\net7.0\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\obj\Debug\net7.0\Empleados.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\obj\Debug\net7.0\refint\Empleados.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\obj\Debug\net7.0\Empleados.pdb
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\obj\Debug\net7.0\Empleados.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Clases\Clase 5\Empleados\obj\Debug\net7.0\ref\Empleados.dll

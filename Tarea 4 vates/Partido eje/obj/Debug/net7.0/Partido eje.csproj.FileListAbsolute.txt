@@ -1,0 +1,15 @@
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.exe
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.deps.json
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.dll
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\bin\Debug\net7.0\Partido eje.pdb
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.dll
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\refint\Partido eje.dll
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.pdb
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\Partido eje.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Partido eje\obj\Debug\net7.0\ref\Partido eje.dll

@@ -1,0 +1,15 @@
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\bin\Debug\net7.0\Tarea 4 vates.exe
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\bin\Debug\net7.0\Tarea 4 vates.deps.json
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\bin\Debug\net7.0\Tarea 4 vates.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\bin\Debug\net7.0\Tarea 4 vates.dll
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\bin\Debug\net7.0\Tarea 4 vates.pdb
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.dll
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\refint\Tarea 4 vates.dll
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.pdb
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\ref\Tarea 4 vates.dll

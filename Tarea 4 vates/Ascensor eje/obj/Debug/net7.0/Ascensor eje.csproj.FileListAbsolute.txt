@@ -1,0 +1,15 @@
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\bin\Debug\net7.0\Ascensor eje.exe
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\bin\Debug\net7.0\Ascensor eje.deps.json
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\bin\Debug\net7.0\Ascensor eje.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\bin\Debug\net7.0\Ascensor eje.dll
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\bin\Debug\net7.0\Ascensor eje.pdb
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\Ascensor eje.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\Ascensor eje.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\Ascensor eje.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\Ascensor eje.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\Ascensor eje.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\Ascensor eje.dll
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\refint\Ascensor eje.dll
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\Ascensor eje.pdb
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\Ascensor eje.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\Ascensor eje\obj\Debug\net7.0\ref\Ascensor eje.dll
