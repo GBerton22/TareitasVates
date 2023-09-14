@@ -12,8 +12,7 @@ namespace EMPLEADOS
 
     public override decimal SueldoFinal()
     {
-      Sueldo = Sueldo / 22 * DiasTrabajados;
-      return Sueldo;
+      return Sueldo = Sueldo / 22 * DiasTrabajados;
     }
   }
 }

@@ -14,7 +14,7 @@ namespace EMPLEADOS
     public override decimal SueldoFinal()
     {
       decimal SueldoMensual = Sueldo / 22 * 20;
-      return Presentismo ? SueldoMensual * 1.13m: SueldoMensual;
+      return Presentismo ? SueldoMensual * 0.13m: SueldoMensual;
     }
   }
 }
