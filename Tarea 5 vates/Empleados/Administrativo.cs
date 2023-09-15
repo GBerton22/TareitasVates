@@ -12,8 +12,7 @@ namespace Empleados
 
     public override decimal CalcularSueldoNeto()
     {
-        decimal sueldoMensual = SueldoBasico / 22 * 20;
-        return Presentismo ? sueldoMensual * 0.13m : sueldoMensual;
+        return Presentismo ? SueldoBasico * 1.13m : SueldoBasico;
     }
 }
 

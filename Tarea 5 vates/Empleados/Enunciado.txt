@@ -1,0 +1,11 @@
+Empleados
+Diseñar y programar las clases necesarias para manipular la información de los datos de los empleados de una empresa. 
+De cada empleado se conoce su legajo, nombre y sueldo básico. 
+Sin embargo la empresa posee tres tipos de empleados:
+
+Obrero: cobra un monto fijo por cada día trabajado igual al sueldo básico dividido en 22.
+Administrativo: cobra un monto fijo por mes más un 13 % si cumplió con el presentismo.
+Vendedor: cobra un monto fijo por mes más una comisión de 1 % del total de sus ventas.
+
+En un programa crear un objeto de cada uno de los tipos de empleados, 
+les asigne a todos el mismo sueldo básico y muestre el sueldo neto que le corresponda a cada uno.

@@ -12,7 +12,7 @@ namespace Empleados
 
     public override decimal CalcularSueldoNeto()
     {
-        return SueldoBasico / 22 * 20 + Ventas * 0.01m;
+        return SueldoBasico + Ventas * 0.01m;
     }
 }
 
