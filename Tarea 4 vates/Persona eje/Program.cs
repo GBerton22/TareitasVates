@@ -24,48 +24,80 @@ namespace Personas
 
             List<Persona> personas = new List<Persona>();
 
-            string[] lines = File.ReadAllLines(@"personas.csv");
-            foreach (string line in lines)
-            {
-                string[] data = line.Split(',');
+            using (StreamReader lector = new StreamReader(@"personas.csv")){
+                string line;
+                while ((line = lector.ReadLine()) != null){
+                    string[] campos = line.Split(',');
+                    string nombre = campos[0];
+                    string apellido = campos[1];
+                    int edad = int.Parse(campos[2]);
 
-                int documento = int.Parse(data[0]);
-                string nombre = data[1];
-                string apellido = data[2];
-                int edad = int.Parse(data[3]);
-
-                Persona p = new Persona(documento, nombre, apellido, edad);
-                personas.Add(p);
-            }
-            var orderedByAgeAndName = personas.OrderByDescending(p => p.Edad)
-                                    .ThenBy(p => p.Apellido)
-                                    .ThenBy(p => p.Nombre)
-                                    .ToList();
-
-            Persona lastOldest = orderedByAgeAndName.LastOrDefault();
-
-            if (lastOldest != null)
-            {
-                Console.WriteLine("La persona mayor que queda al último en el diccionario es: " + lastOldest);
-            }
-            else
-            {
-                Console.WriteLine("No hay una persona mayor que queda al último en el diccionario");
+                    Persona persona = new Persona(nombre,apellido,edad);
+                    personas.Add(persona);
+                }
             }
 
-            var orderedByAge = personas.OrderByDescending(p => p.Edad).ToList();
-            int oldestAge = orderedByAge.First().Edad;
-            Persona nextOldest = orderedByAge.SkipWhile(p => p.Edad == oldestAge).FirstOrDefault();
-
-            if (nextOldest != null)
+            int opcion;
+            do
             {
-                Console.WriteLine($"La siguiente persona más vieja es: {nextOldest}");
-            }
-            else
-            {
-                Console.WriteLine("No hay una siguiente persona más vieja");
-            }
+                System.Console.WriteLine(" Menu de Personas ");
+                System.Console.WriteLine("1. Listar personas por su Apellido");
+                System.Console.WriteLine("2. Listar personas por su rango de Edad");
+                System.Console.WriteLine("3. Listar personas por su secuencia de numeros en documento");
+                System.Console.WriteLine("0. Salir");
+                System.Console.WriteLine("Ingrese una opcion");
+                
+                opcion = int.Parse(Console.ReadLine());
+                switch (opcion)
+                {
+                    case 1:
+                    System.Console.WriteLine("Ingrese un apellido: ");
+                    string apellido = Console.ReadLine();
+                    List<Persona> ApeXUsuario = personas.Where(p => p.Apellido == apellido).ToList();
+                    break;
+                    case 2:
+                    System.Console.WriteLine("Ingrese rango de edad (menor y mayor separado por coma) ");
+                    string[] rangoEdad = Console.ReadLine().Split(',');
+                    int edadMenor = int.Parse(rangoEdad[0]);
+                    int edadMayor = int.Parse(rangoEdad[1]);
+                    List<Persona> RangoEdadXusuario = personas.Where(p => p.Edad >= edadMenor && p.Edad <= edadMayor).ToList();
+                    break;
+                    case 3:
+                    System.Console.WriteLine("Ingrese la secuencia de documentos: ");
+                    string secuenciaDeDocumentos = Console.ReadLine();
+                     List<Persona> DocumentoBuscadoXUsuario = personas.Where(p => p.Documento(secuenciaDeDocumentos)).ToList();
+                    break;
+                    case 0:
+                    System.Console.WriteLine("Saliendo del programa");
+                    break;
+                    default:
+                    System.Console.WriteLine("Ingrese una opcion valida: ");
+                    break;
+                }
+            } while (opcion != 0);
 
+            System.Console.WriteLine("Criterio de ordenamiento: ");
+            System.Console.WriteLine("1. documento ");
+            System.Console.WriteLine("2. Apellido + Nombre ");
+            System.Console.WriteLine("3. Edad ");
+            System.Console.WriteLine("Ingrese una opcion: ");
+
+            int criterioDeOrdenamiento = int.Parse(Console.ReadLine());
+
+            System.Console.WriteLine("1. Direccion creciente");
+            System.Console.WriteLine("2. Direccion decreciente");
+            System.Console.WriteLine("Ingrese una opcion: ");
+
+            int direccionCrecimiento = int.Parse(Console.ReadLine());
+
+             switch (criterioDeOrdenamiento)
+             {
+                case 1:
+                if (direccionCrecimiento == 1)
+                {
+                    
+                }
+             }
         }
     }
 }

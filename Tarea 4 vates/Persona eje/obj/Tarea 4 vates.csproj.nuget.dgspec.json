@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\EJERCICIOS TECNICATURA\\VATES\\Tarea 4 vates\\Persona eje\\Tarea 4 vates.csproj": {}
+    "c:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Tarea 4 vates\\Persona eje\\Tarea 4 vates.csproj": {}
   },
   "projects": {
-    "d:\\EJERCICIOS TECNICATURA\\VATES\\Tarea 4 vates\\Persona eje\\Tarea 4 vates.csproj": {
+    "c:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Tarea 4 vates\\Persona eje\\Tarea 4 vates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\EJERCICIOS TECNICATURA\\VATES\\Tarea 4 vates\\Persona eje\\Tarea 4 vates.csproj",
+        "projectUniqueName": "c:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Tarea 4 vates\\Persona eje\\Tarea 4 vates.csproj",
         "projectName": "Tarea 4 vates",
-        "projectPath": "d:\\EJERCICIOS TECNICATURA\\VATES\\Tarea 4 vates\\Persona eje\\Tarea 4 vates.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "d:\\EJERCICIOS TECNICATURA\\VATES\\Tarea 4 vates\\Persona eje\\obj\\",
+        "projectPath": "c:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Tarea 4 vates\\Persona eje\\Tarea 4 vates.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\admin\\Desktop\\Vates G\\TareitasVates\\Tarea 4 vates\\Persona eje\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

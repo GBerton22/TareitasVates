@@ -13,3 +13,17 @@ D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\refint\Tarea 4 va
 D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.pdb
 D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\Tarea 4 vates.genruntimeconfig.cache
 D:\EJERCICIOS TECNICATURA\VATES\Tarea 4 vates\obj\Debug\net7.0\ref\Tarea 4 vates.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\bin\Debug\net7.0\Tarea 4 vates.exe
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\bin\Debug\net7.0\Tarea 4 vates.deps.json
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\bin\Debug\net7.0\Tarea 4 vates.runtimeconfig.json
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\bin\Debug\net7.0\Tarea 4 vates.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\bin\Debug\net7.0\Tarea 4 vates.pdb
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\obj\Debug\net7.0\Tarea 4 vates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\obj\Debug\net7.0\Tarea 4 vates.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\obj\Debug\net7.0\Tarea 4 vates.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\obj\Debug\net7.0\Tarea 4 vates.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\obj\Debug\net7.0\Tarea 4 vates.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\obj\Debug\net7.0\refint\Tarea 4 vates.dll
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\obj\Debug\net7.0\Tarea 4 vates.pdb
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\obj\Debug\net7.0\Tarea 4 vates.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vates G\TareitasVates\Tarea 4 vates\Persona eje\obj\Debug\net7.0\ref\Tarea 4 vates.dll
