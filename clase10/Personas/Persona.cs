@@ -1,4 +1,4 @@
-namespace Personas {
+namespace CollecionesPersona {
 
     public class Persona {
 

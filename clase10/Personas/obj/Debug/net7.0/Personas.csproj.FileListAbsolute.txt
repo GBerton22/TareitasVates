@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\bin\Debug\net7.0\Personas.exe
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\bin\Debug\net7.0\Personas.deps.json
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\bin\Debug\net7.0\Personas.runtimeconfig.json
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\bin\Debug\net7.0\Personas.dll
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\bin\Debug\net7.0\Personas.pdb
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\obj\Debug\net7.0\Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\obj\Debug\net7.0\Personas.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\obj\Debug\net7.0\Personas.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\obj\Debug\net7.0\Personas.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\obj\Debug\net7.0\Personas.dll
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\obj\Debug\net7.0\refint\Personas.dll
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\obj\Debug\net7.0\Personas.pdb
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\obj\Debug\net7.0\Personas.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase10\Personas\obj\Debug\net7.0\ref\Personas.dll

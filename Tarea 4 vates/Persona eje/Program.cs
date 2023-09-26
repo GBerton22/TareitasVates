@@ -65,7 +65,7 @@ namespace Personas
                     case 3:
                     System.Console.WriteLine("Ingrese la secuencia de documentos: ");
                     string secuenciaDeDocumentos = Console.ReadLine();
-                     List<Persona> DocumentoBuscadoXUsuario = personas.Where(p => p.Documento(secuenciaDeDocumentos)).ToList();
+                    List<Persona> DocumentoBuscadoXUsuario = personas.Where(p => p.Documento.EndsWith()(secuenciaDeDocumentos)).ToList();
                     break;
                     case 0:
                     System.Console.WriteLine("Saliendo del programa");

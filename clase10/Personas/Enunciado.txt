@@ -1,0 +1,5 @@
+
+
+- cargar csv personas y listar todos los apellidos sin repeticiones 
+- otro listado solo los nombres sin repeticiones 
+- metodo informar si hay PersonasIgualNombre y igual PersonasIgualApellido
