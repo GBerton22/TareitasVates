@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\bin\Debug\net7.0\Veterinaria2.0.exe
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\bin\Debug\net7.0\Veterinaria2.0.deps.json
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\bin\Debug\net7.0\Veterinaria2.0.runtimeconfig.json
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\bin\Debug\net7.0\Veterinaria2.0.dll
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\bin\Debug\net7.0\Veterinaria2.0.pdb
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\obj\Debug\net7.0\Veterinaria2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\obj\Debug\net7.0\Veterinaria2.0.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\obj\Debug\net7.0\Veterinaria2.0.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\obj\Debug\net7.0\Veterinaria2.0.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\obj\Debug\net7.0\Veterinaria2.0.dll
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\obj\Debug\net7.0\refint\Veterinaria2.0.dll
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\obj\Debug\net7.0\Veterinaria2.0.pdb
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\obj\Debug\net7.0\Veterinaria2.0.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vates G\vates-net-2023-main\vates-net-2023\clase11\Veterinaria2.0\obj\Debug\net7.0\ref\Veterinaria2.0.dll
